@@ -10,6 +10,7 @@ const Header = () => {
                     <li><a href="#videos">Eğitim Videoları</a></li>
                     <li><a href="#documents">Dökümanlar</a></li>
                     <li><a href="#tools">Araçlar</a></li>
+                    <li><a href="/iletişim">İletişim</a></li>
                 </ul>
             </nav>
         </header>
