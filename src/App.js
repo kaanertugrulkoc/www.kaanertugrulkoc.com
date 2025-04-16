@@ -24,6 +24,15 @@ const App = () => {
                 <section id="Araçlar">
                     <Tools />
                 </section>
+                <section id="Projelerim">
+                    <Tools />
+                </section>
+                <section id="yazılımlarım">
+                    <Tools />
+                </section>
+                <section id="Hakkımda">
+                    <Tools />
+                </section>
             </main>
             <Footer />
         </div>
