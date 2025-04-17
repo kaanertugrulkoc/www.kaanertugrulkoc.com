@@ -4,7 +4,7 @@ const Biography = () => {
     return (
         <div>
             <h2>Biografi</h2>
-            <p>Biografi content...</p>
+            <p>yapım aşamasında</p>
         </div>
     );
 };
