@@ -33,6 +33,12 @@ const App = () => {
                 <section id="Hakkımda">
                     <Tools />
                 </section>
+                <sectionid="3DGrafik,Animasyon,Modelleme">
+                    <Tools />
+                <section id="Oyun Tasarımı">
+                    <Tools />
+                </section>
+                </section>
             </main>
             <Footer />
         </div>
