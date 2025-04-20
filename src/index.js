@@ -13,6 +13,7 @@ ReactDOM.render(
         <Route index element={<Home />} />
         <Route path="hakkında" element={<About />} />
         <Route path="iletişim" element={<Contact />} />
+        <Route path="Aşk" element={<Contact />} />
       </Route>
     </Routes>
   </Router>,
